@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5e172e7c-f109-42ff-a199-22d24e6b826f",
+  "id_short": 502870,
+  "published_at": "2026-04-13T07:30:11Z",
+  "repo_name": "new-restaurant-domains-365-days-in-colorado-us-sample-502870",
+  "sample_asset_name": "beamstation_502870_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/502870/beamstation_502870_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_records": 56,
+  "sample_sha256": "06072288d11fb1eeae71482665d9a395818b24b76ec162f7ad8f01150656ba28",
+  "sample_size_bytes": 218225,
+  "total_records": 564
+}
